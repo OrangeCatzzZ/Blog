@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: personal_blog
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.blog
+Build-Jdk: 1.7.0_80
+Built-By: zzy
+Created-By: Maven Integration for Eclipse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/personal_blog
+
